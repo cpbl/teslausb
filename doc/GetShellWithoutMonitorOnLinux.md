@@ -22,7 +22,7 @@ These instructions will configure a Raspberry Pi so that you can proceed with th
     ```
     ./setup-piForHeadlessConfig.sh /Volumes/boot
     ```
-1. If you're using Ubuntu, run this command:
+1. If you're using Ubuntu, run this command (if you have a permission problem, precede the command with `bash `):
     ```
     ./setup-piForHeadlessConfig.sh /media/$USER/boot
     ```
